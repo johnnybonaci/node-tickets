@@ -4,6 +4,7 @@ Este es un pequeño servidor de express listo para ejecutarse y servir la carpet
 
 Recuerden que deben de reconstruir los módulos de node con el comando
 
+sistema de tickets y cola
 ```
 npm install
 ```
